@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Malak Hayati |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/malak-hayati/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ملاك حياتي، في ليل الشوق أناديك
+> نار الحب في عيوني، وكل نبضة تناديك
+> خذني في حضنك، دعني أذوب في الغرام
+> أنت روحي، ومعك يحلو الكلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
