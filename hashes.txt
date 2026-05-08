@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Malak Hayati
+
+This log tracks the cryptographic history and versioning for the song **Malak Hayati** (malak-hayati).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T20:09:01.299401 | `v1` | `5125fa1679679dff96a73339313b26cf8e40d8a76bd4337a626ccbbcf1c9f850` | `4b1e9701cd18b92b847e6c8f4a2640519f92a081d98a2b4be0f13ee090552b8d` | `2026-05-08_malak-hayati-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
